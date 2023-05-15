@@ -1,0 +1,13 @@
+Yahoo DataBreach
+
+What type of attack was this?
+Once again, this attack took place via a series of Spear-Phishing emails containing malware. One simple click from a single user gave them access to the database. They also created a backdooe to the yahoo server and kept coming back for more. The attack lasted over 3 years and the user accounts of 3 billion people were exposed. Amongst them, high profile users. 
+
+How was the vulnerability discovered?
+I was not able to find out how they discovered the vulnerability. The article just said that yahoo came forward saying they had a breach and over 500,000 accounts/users had been compromised. # months later they found another breach where the number grew to 1 billion and one the FBI got invovled, they discovered the breach was actually for 3 billion users. 
+
+How were the attackers able to exploit the vulnerability?
+They were able to get access to the network via  Phishing email. Then they made sure not to lose access to the database by creating a backdoor. 
+
+Were there security measures that could have been taken in order to prevent this attack?
+Yes, to have stronger security. Creating more awareness and training their staff on what to look for to prevent Phishing emails and etc. This was during 2013-2016. They should have done a better job to protect billions of customers. 
